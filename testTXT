@@ -1,8 +1,8 @@
-this is a test text file for git testing
-2nd line inserted
-3rd line inserted
-4th line inserted
-5th line inserted
-6th line inserted
-7th line inserted, with hot fix
+this is a test text file for git testing   | Line 01
+2nd line inserted   | Line 02
+3rd line inserted   | Line 03
+4th line inserted   | Line 04
+5th line inserted   | Line 05
+6th line inserted   | Line 06
+7th line inserted, with hot fix | Line 07
 with hot fix, problem has been solved
